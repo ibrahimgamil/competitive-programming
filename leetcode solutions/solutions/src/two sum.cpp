@@ -1,6 +1,6 @@
 
 //============================================================================
-// Name        : Median of Two Sorted Arrays.cpp
+// Name        : two sum.cpp
 // Author      : igamil
 // Description : leetcode problems solutions
 //============================================================================
